@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'La rana'
+description:      'PCTO Liceo Galvani - Università di Bologna, dipartimento FILCOM'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+copyright:        'Liceo Galvani, 2023'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -67,11 +67,11 @@ collections:
     output: true
   qatar: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'default' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'larana.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -86,14 +86,14 @@ search:
     index: '/search/index.json' # file the index will get written to
     collections:
       qatar:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
+          - authors
           - location
           - label
           - _date
-          - object_type
-          - current_location
+          - subject
+
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -103,7 +103,7 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Sul progetto'
     sub:
       - label: 'Wax'
         link: '/about/'
@@ -111,17 +111,17 @@ menu:
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
-  - label: 'Browse'
+  #- label: 'Collezione'
+  #  sub:
+  #    - label: 'Inline Parallax Image'
+  #      link: '/exhibits/a/'
+  #    - label: 'Inline Image References'
+  #      link: '/exhibits/b/'
+  - label: 'Esplora'
     link: '/collection/'
-  - label: 'Search'
+  - label: 'Ricerca'
     link: '/search/'
-  - label: 'Reuse'
+  - label: 'Riutilizza'
     link: '/reuse/'
 
 # --------------------------------------------------------------

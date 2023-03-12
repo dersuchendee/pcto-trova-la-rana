@@ -1,8 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'La rana'
+author: Liceo Galvani
+publish_date: 2023-12-03
 permalink: /exhibits/a/
 ---
 
