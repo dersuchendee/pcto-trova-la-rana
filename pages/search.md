@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search the Collection
+title: Cerca la collezione
 permalink: /search/
 ---
 

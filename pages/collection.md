@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse the Collection
+title: Esplora la collezione
 permalink: /collection/
 ---
 
