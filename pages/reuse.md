@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reuse the Collection
+title: Riutilizza la collezione
 permalink: /reuse/
 collection: qatar
 ---
