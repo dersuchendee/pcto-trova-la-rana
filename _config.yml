@@ -20,7 +20,7 @@
 
 title:            'La rana'
 description:      'PCTO Liceo Galvani - Università di Bologna, dipartimento FILCOM'
-url:              'https://dersuchendee.github.io/pcto-trova-la-rana/'
+url:              'https://dersuchendee.github.io/pcto-trova-la-rana'
 baseurl:          '/pcto-trova-la-rana'
 copyright:        'Liceo Galvani, 2023'
 logo:             '/assets/logo.png'
