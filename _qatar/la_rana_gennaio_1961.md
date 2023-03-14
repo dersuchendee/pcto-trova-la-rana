@@ -23,7 +23,7 @@ autori: Gilberto Cella;Paolo Montanari;Federico Bendinelli;Anna Mazzone;Fabrizio
 order: '0'
 layout: qatar_item
 collection: qatar
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1961.json'
+full: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1961.json'
+manifest: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1961.json'
 ---

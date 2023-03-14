@@ -21,7 +21,7 @@ autori: Mauro Mariani;Riccardo Vattuone;Gabrio Geraci;Giorgio Graffi;Susanna Bia
 order: '4'
 layout: qatar_item
 collection: qatar
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1967.json'
+full: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1967.json'
+manifest: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1967.json'
 ---

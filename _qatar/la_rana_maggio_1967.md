@@ -21,7 +21,7 @@ autori: Giorgio Graffi;Marco Biagi;Gabrio Geraci;Rino Maenza;Mauro Mariani;Ricca
 order: '3'
 layout: qatar_item
 collection: qatar
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1967.json'
+full: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1967.json'
+manifest: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1967.json'
 ---

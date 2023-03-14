@@ -24,7 +24,7 @@ autori: Aldo Parisini;Alessanra Deoriti;Diadora Giannello;Enrichetta Sentimenti;
 order: '2'
 layout: qatar_item
 collection: qatar
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1966.json'
+full: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1966.json'
+manifest: 'https://bub.unibo.it/iiif/2/manifest/bub/giornaliniscolastici/larana/jpg/1966.json'
 ---
